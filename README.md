@@ -3,9 +3,9 @@ ekill
 
 It's like [**xkill**](https://en.wikipedia.org/wiki/Xkill), but for annoying web pages instead.
 
-Chrome plugin for quickly getting rid of elements on a web page.
+ekill is basically a Chrome plugin that quickly gets rid of unnecessary elements on a web page.
 
-Link to the plugin on the [chrome
+The link to the plugin on the [chrome
 web-store](https://chrome.google.com/webstore/detail/ekill/lcgdpfaiipaelnpepigdafiogebaeedg?hl=en).
 
 ![Example](https://raw.githubusercontent.com/rhardih/ekill/master/example.gif)
